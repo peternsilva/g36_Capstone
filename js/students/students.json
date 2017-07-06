@@ -75,7 +75,7 @@
       "siteURL": "https://art-id.herokuapp.com/",
       "linkedinURL": "https://www.linkedin.com/in/steven-hendricks/",
       "name": "Steven Hendricks",
-      "icon": "https://s3-us-west-2.amazonaws.com/quilt-production/logo/2017/2/9D9evrtRopd8EpxhMG.png",
+      "icon": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/0d8/0b4/1ad0574.jpg",
       "project": "Art recognition"
     }, {
       "talentURL": "https://talent.galvanize.com/students/1394",
@@ -86,7 +86,7 @@
       "siteURL": "lapse.herokuapp.com",
       "linkedinURL": "https://www.linkedin.com/in/rhysgoehring/",
       "name": "Rhys Goehring",
-      "icon": "http://i.imgur.com/gh1E6Lu.jpg",
+      "icon": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAnaAAAAJDJjMjU1YjBjLWYyMDQtNDdiYy05MGM5LWEzMzRmOTM2YmEwZg.jpg",
       "project": "Lapse"
     }, {
       "talentURL": "https://talent.galvanize.com/students/1383",
@@ -157,7 +157,7 @@
     }, {
       "talentURL": "https://talent.galvanize.com/students/1396",
       "technologies": ["Ethereum", "Solidity", "Truffle", "React", "Redux", "HTML", "CSS"],
-      "image": "img/placeholder_large.png",
+      "image": "",
       "bioURL": "",
       "githubURL": "https://github.com/captnseagraves",
       "siteURL": "",
@@ -196,8 +196,63 @@
       "siteurl": "",
       "linkedinURL": "https://www.linkedin.com/in/kevin-conrad-43112a133/",
       "name": "Kevin Conrad",
-      "icon": "https://www.facebook.com/photo/download/?fbid=10205550549261827&ext=1499618634&hash=AeQV5teM1l4refVS",
+      "icon": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA2IAAAAJDcwMGU5NjFjLWExM2EtNGYyYy1iODU4LWJiYmY3MmZiZTRjOQ.jpg",
       "project": "Magic Deck Builder"
+    }, {
+      "talentURL": "https://talent.galvanize.com/students/1397",
+      "technologies": ["React", "Ruby on Rails", "PostgreSQL", "JavaScript", "Bootstrap", "Microsoft Cognitive Services", "Twilio"],
+      "image": "http://i.imgur.com/kz3joU8.png",
+      "bioURL": "https://github.com/jenniferwiner/empower-react",
+      "githubURL": "https://github.com/jenniferwiner",
+      "siteURL": "https://empower-you.herokuapp.com/",
+      "linkedinURL": "https://www.linkedin.com/in/jenniferwiner/",
+      "name": "Jennifer Winer",
+      "icon": "http://i.imgur.com/dY90GWI.jpg",
+      "project": "Empower"
+    }, {
+      "talentURL": "https://talent.galvanize.com/students/1389",
+      "technologies": ["Swift 3", "Xcode", "JavaScript", "Node.js", "Express.js", "PostgreSQL"],
+      "image": "",
+      "bioURL": "https://github.com/djamesjones4/doctors_note_ios/blob/master/README.md",
+      "githubURL": "https://github.com/djamesjones4",
+      "siteURL": "https://youtu.be/OjtBHjTmtOM",
+      "linkedinURL": "https://www.linkedin.com/in/derek-james-jones/",
+      "name": "Derek Jones",
+      "icon": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA0uAAAAJGNkNTZiMjM4LTZiMDYtNDRmZC1hMzQ3LTg4MWYyYTIyMmJkZA.jpg",
+      "project": "Doctor's Note"
+    }, {
+      "talentURL": "https://talent.galvanize.com/students/1395",
+      "technologies": ["React", "Redux", "Node", "Express", "PostgreSQL", "HTML", "CSS", "Spotify API", "Spotify OAuth"],
+      "image": "http://i.imgur.com/LvkEN7Z.png",
+      "bioURL": "https://github.com/MatthewAlbrecht/festival_select_v2/blob/master/README.md",
+      "githubURL": "https://github.com/MatthewAlbrecht",
+      "siteURL": "http://festival-select.herokuapp.com",
+      "linkedinURL": "https://www.linkedin.com/in/matthewwealbrecht/",
+      "name": "Matthew Albrecht",
+      "icon": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAuVAAAAJDMzNmEwMWNlLTFiYmEtNDBiZC04M2FlLTVmZDYyMTY1YmUwNg.jpg",
+      "project": "Festival Select"
+    }, {
+      "talentURL": "https://talent.galvanize.com/students/1406",
+      "technologies": ["Swift 3", "Xcode 8", "Node.js", "Express", "FoursquareAPI", "iOS 10", "jQuery", "MapBoxGL"],
+      "image": "https://www.facebook.com/photo/download/?fbid=245724742153226&ext=1499628208&hash=AeQfgVjeKZ5CSith",
+      "bioURL": "http://github.com/nicowave/ArtistreeV3",
+      "githubURL": "http://github.com/nicowave",
+      "siteURL": "http://github.com/nicowave/ArtistreeV3",
+      "linkedinURL": "https://www.linkedin.com/in/nicoroldos/",
+      "name": "Nicolas Roldos",
+      "icon": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAv8AAAAJDk1YzVmODNmLTk5ZjctNDUxYS04MzE5LTViZjA2MGQyZjhiNA.jpg",
+      "project": "ArtistreeMapp"
+    }, {
+      "talentURL": "https://talent.galvanize.com/students/1403",
+      "technologies": ["C#", "Unity3d Engine", "ASP.NET", "Angular 4", "TypeScript", "AWS Elastic Beanstalk", "Webpack"],
+      "image": "http://i1030.photobucket.com/albums/y368/C_P_T/NEWGALVICON_zps3q9aatsn.png",
+      "bioURL": "https://github.com/christiantaggart/taggart_capstone/blob/master/README.md",
+      "githubURL": "https://github.com/christiantaggart",
+      "siteURL": "*** Will eventually be up*** http://taggartcapstone.us-west-2.elasticbeanstalk.com/",
+      "linkedinURL": "https://www.linkedin.com/in/christian-taggart/",
+      "name": "Christian Taggart",
+      "icon": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA2tAAAAJDllZWM0N2UxLWQ2NGItNDU5NS05NmZiLWJkOWM3NTYxYmU3Mw.jpg",
+      "project": "Capstone Capture"
     }
   ]
 }
