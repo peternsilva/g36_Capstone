@@ -7,12 +7,23 @@ md-card-content > ul {
     list-style-type: none;
 }
 
+md-card.student > img.md-card-image {
+  width: 300px;
+  max-height: 360px;
+  margin: 0 auto;
+}
+
 .search {
   background-color:rgb(250,250,250);
 }
 
 .staff {
   width: 350px;
+}
+
+.staff .card-media img {
+    width: 80px;
+    height: 80px;
 }
 
 .student {
