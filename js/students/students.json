@@ -190,7 +190,7 @@
     }, {
       "talentURL": "https://talent.galvanize.com/students/1406",
       "technologies": ["Swift 3", "Xcode 8", "Node.js", "Express", "FoursquareAPI", "iOS 10", "jQuery", "MapBoxGL"],
-      "image": "https://www.facebook.com/photo/download/?fbid=245724742153226&ext=1499628208&hash=AeQfgVjeKZ5CSith",
+      "image": "",
       "bioURL": "http://github.com/nicowave/ArtistreeV3",
       "githubURL": "http://github.com/nicowave",
       "siteURL": "http://github.com/nicowave/ArtistreeV3",
